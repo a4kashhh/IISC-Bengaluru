@@ -28,7 +28,7 @@
 Short results table (example you should fill after running):
 | Model | Patch | Depth | Dim | Best Test Acc (%) |
 |-------|-------|-------|-----|-------------------|
-| ViT-starter | 4x4 | 8 | 256 | *run and fill* |
+| ViT-starter | 4x4 | 8 | 256 | 80.26   |
 
 ---
 
